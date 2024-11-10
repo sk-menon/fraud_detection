@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print ('adding code for model1')
+
+print('model3 is perforing best')
